@@ -1,5 +1,4 @@
 import socket
-import time
 
 ip_addr = '127.0.0.1'
 port = 49001
